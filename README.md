@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eckhard@diytechadventures.de
+- 👋 Hi, I’m Eckhard
 - 👀 I’m interested in programming Microelectronics, such as ESP32 i.e., using protokolls ESP-NOW, Lora
 - 🌱 programming Lora Boards and building Lora-Gateway-Network in my region
 
